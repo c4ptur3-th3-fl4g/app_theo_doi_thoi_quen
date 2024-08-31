@@ -1,38 +1,33 @@
-# Ứng Dụng Theo Dõi Thói Quen Cá Nhân
-## 1. Giới Thiệu
-Ứng dụng Theo Dõi Thói Quen Cá Nhân được thiết kế để giúp người dùng quản lý và duy trì các thói quen tích cực trong cuộc sống hàng ngày. Mục tiêu của ứng dụng là hỗ trợ người dùng trong việc thiết lập, theo dõi, và cải thiện các thói quen cá nhân như tập thể dục, đọc sách, hoặc ăn uống lành mạnh, từ đó thúc đẩy sự phát triển cá nhân và cải thiện chất lượng cuộc sống.
+# Website quản lý công việc (task management)
+## Thành viên nhóm
+* Đỗ Nguyễn Minh Phương - 22010222
+* Đoàn Trung Đức - 22010153
+* Nguyễn Danh Hiếu - 22010104
+* Phạm Văn Thân - 22010093
+## Mô tả
+ Công dụng: giúp người dùng theo dõi, sắp xếp và quản lý các công việc cá nhân hoặc nhóm 
 
-## 2. Tính Năng Chính
-### a. Thiết Lập Thói Quen
+ Sản phẩm này có thể dành cho nhiều đối tượng: 
 
-Tạo Mới: Cho phép người dùng tạo và tùy chỉnh các thói quen cá nhân theo nhu cầu và mục tiêu riêng. Ví dụ, người dùng có thể thiết lập thói quen tập thể dục ba lần mỗi tuần hoặc đọc một chương sách mỗi ngày.
-<br> Cài Đặt Mục Tiêu: Người dùng có thể xác định các mục tiêu cụ thể cho từng thói quen, chẳng hạn như số lần thực hiện hàng tuần hoặc thời gian thực hiện hàng ngày.
-### b. Nhắc Nhở và Thông Báo
+* Cá nhân muốn quản lý công việc hang ngày
+* Nhóm làm việc cần phối hợp công việc
+* Doanh nghiệp nhỏ hoặc lớn muốn quản lý dự án và nhiệm vụ của nhân viên
+ Sản phẩm này có thể giải quyết các vấn đề như: 
 
-Nhắc Nhở Tự Động: Cung cấp nhắc nhở tự động để người dùng thực hiện thói quen theo lịch trình đã thiết lập.
-<br> Thông Báo Đẩy: Gửi thông báo đẩy trên điện thoại để nhắc nhở người dùng không quên thói quen, giúp duy trì động lực và sự nhất quán.
-### c. Theo Dõi Tiến Độ
+* Giúp người dùng có thể quản lý thời gian và công việc hiệu quả
+* Tránh tình trạng quên nhiệm vụ hoặc lạc mất thông tin
+* Tối ưu hóa quy trình làm việc và nâng cao năng suất 
 
-Ghi Chép và Báo Cáo: Người dùng có thể ghi chép các lần thực hiện thói quen và theo dõi tiến độ của mình qua các báo cáo.
-<br> Biểu Đồ và Thống Kê: Hiển thị đồ thị và thống kê về sự tiến bộ theo thời gian, giúp người dùng dễ dàng theo dõi sự cải thiện và đạt được mục tiêu.
-### d. Khuyến Khích và Động Viên
+ Tại sao sản phẩm này lại hấp dẫn và đáng để xây dựng? Xuất phát từ nhu cầu: Quản lý công việc là nhu cầu chung của mọi người, từ cá nhân đến doanh nghiệp. Giúp người dùng làm việc hiệu quả hơn 
 
-Thông Báo Động Viên: Cung cấp thông báo động viên và khích lệ khi người dùng hoàn thành các mục tiêu hoặc duy trì thói quen.
-<br> Phần Thưởng Ảo: Tạo các phần thưởng ảo như huy hiệu hoặc điểm số khi đạt được các cột mốc quan trọng, thúc đẩy động lực và sự cam kết.
-### e. Chia Sẻ và Kết Nối
-
-Chia Sẻ Thành Tích: Cho phép người dùng chia sẻ thành tích và tiến độ với bạn bè hoặc cộng đồng để nhận được sự khích lệ từ những người xung quanh.
-<br> Nhóm Hỗ Trợ: Tạo nhóm hỗ trợ cho người dùng có cùng mục tiêu thói quen, như nhóm tập thể dục hoặc đọc sách, để tạo cơ hội giao lưu và động viên lẫn nhau.
-## 3. Giao Diện Người Dùng
-Thiết Kế Đơn Giản: Giao diện người dùng được thiết kế đơn giản và trực quan, dễ sử dụng với các nút và biểu mẫu rõ ràng.
-<br> Trang Chính: Hiển thị danh sách các thói quen hiện có cùng với tiến độ và trạng thái.
-<br> Màn Hình Chi Tiết: Cung cấp thông tin chi tiết về từng thói quen, bao gồm mục tiêu, tiến độ và nhắc nhở.
-## 4. Độ Khả Thi
-Công Cụ Phát Triển: Ứng dụng có thể được phát triển bằng các công cụ phát triển ứng dụng di động cơ bản như React Native hoặc Flutter, giúp tiết kiệm thời gian và chi phí phát triển.
-<br> Dữ Liệu và Lưu Trữ: Sử dụng dịch vụ lưu trữ đám mây để lưu trữ dữ liệu tiến độ và mục tiêu của người dùng, đảm bảo rằng người dùng có thể truy cập thông tin từ nhiều thiết bị khác nhau.
-## 5. Mức Độ Tác Động
-Cải Thiện Thói Quen: Ứng dụng hỗ trợ người dùng duy trì và cải thiện các thói quen cá nhân tích cực, dẫn đến sự phát triển và thành công cá nhân.
-<br> Khuyến Khích Tự Kỷ Luật: Tăng cường động lực và tự kỷ luật của người dùng thông qua việc theo dõi tiến độ và phần thưởng, giúp đạt được mục tiêu lâu dài và bền vững.
-## 6. Kết Luận
-Ứng dụng Theo Dõi Thói Quen Cá Nhân không chỉ giúp người dùng thiết lập và duy trì các thói quen tích cực mà còn tạo động lực và hỗ trợ trong quá trình phát triển cá nhân. Với thiết kế đơn giản và dễ sử dụng, 
-ứng dụng có khả năng tạo ra tác động tích cực lâu dài cho người dùng và hỗ trợ họ trong việc đạt được các mục tiêu cá nhân.
+## Các tính năng: 
+* Cho phép người dùng tạo, chỉnh sửa và xóa công việc
+* Cho phép gán nhiệm vụ cho các thành viên trong nhóm
+* Hiển thị danh sách công việc (Tên, trạng thái, Thời gian, người tham gia,...)
+* Cho phép người dùng xem chi tiết từng công việc
+* Cập nhật được trạng thái công việc (Khởi tạo -> Đang làm -> Hoàn thành/Không hoàn thành/Tạm hoãn,...)
+* Tính năng đăng nhập, đăng ký, quên mật khẩu (gửi OTP về email)
+## Công nghệ sử dụng
+* Front-end: ReactJS, bootstrap
+* Back-end: NodeJS, expressJS
+* Database: Mongodb
