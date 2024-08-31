@@ -1,33 +1,32 @@
-# Website quản lý công việc (task management)
+# App theo dõi thói quen (task management)
 ## Thành viên nhóm
 * Đỗ Nguyễn Minh Phương - 22010222
 * Đoàn Trung Đức - 22010153
 * Nguyễn Danh Hiếu - 22010104
 * Phạm Văn Thân - 22010093
 ## Mô tả
- Công dụng: giúp người dùng theo dõi, sắp xếp và quản lý các công việc cá nhân hoặc nhóm 
+ Công dụng: Giúp người dùng thiết lập, theo dõi, và duy trì các thói quen cá nhân, từ đó cải thiện sức khỏe, năng suất, và chất lượng cuộc sống.
 
- Sản phẩm này có thể dành cho nhiều đối tượng: 
+## Sản phẩm này có thể dành cho nhiều đối tượng:
 
-* Cá nhân muốn quản lý công việc hang ngày
-* Nhóm làm việc cần phối hợp công việc
-* Doanh nghiệp nhỏ hoặc lớn muốn quản lý dự án và nhiệm vụ của nhân viên
- Sản phẩm này có thể giải quyết các vấn đề như: 
+* Cá nhân muốn duy trì và phát triển thói quen tốt.
+* Những người cần động lực và kỷ luật cá nhân.
+## Sản phẩm này có thể giải quyết các vấn đề như:
 
-* Giúp người dùng có thể quản lý thời gian và công việc hiệu quả
-* Tránh tình trạng quên nhiệm vụ hoặc lạc mất thông tin
-* Tối ưu hóa quy trình làm việc và nâng cao năng suất 
+* Giúp người dùng duy trì thói quen đều đặn.
+* Tạo động lực qua phần thưởng và thông báo động viên.
+* Theo dõi tiến độ và cải thiện thói quen.
+* Tại sao sản phẩm này lại hấp dẫn và đáng để xây dựng? Xuất phát từ nhu cầu quản lý thói quen, sản phẩm này giúp cải thiện cuộc sống của người dùng thông qua việc theo dõi và đạt được các mục tiêu cá nhân.
 
- Tại sao sản phẩm này lại hấp dẫn và đáng để xây dựng? Xuất phát từ nhu cầu: Quản lý công việc là nhu cầu chung của mọi người, từ cá nhân đến doanh nghiệp. Giúp người dùng làm việc hiệu quả hơn 
+## Các tính năng:
 
-## Các tính năng: 
-* Cho phép người dùng tạo, chỉnh sửa và xóa công việc
-* Cho phép gán nhiệm vụ cho các thành viên trong nhóm
-* Hiển thị danh sách công việc (Tên, trạng thái, Thời gian, người tham gia,...)
-* Cho phép người dùng xem chi tiết từng công việc
-* Cập nhật được trạng thái công việc (Khởi tạo -> Đang làm -> Hoàn thành/Không hoàn thành/Tạm hoãn,...)
-* Tính năng đăng nhập, đăng ký, quên mật khẩu (gửi OTP về email)
+* Tạo, chỉnh sửa, và xóa thói quen cá nhân.
+* Đặt mục tiêu và nhắc nhở tự động.
+* Theo dõi tiến độ qua biểu đồ và thống kê.
+* Nhận phần thưởng ảo khi đạt cột mốc quan trọng.
+* Chia sẻ thành tích và kết nối với nhóm hỗ trợ.
+* Công nghệ sử dụng
 ## Công nghệ sử dụng
-* Front-end: ReactJS, bootstrap
-* Back-end: NodeJS, expressJS
-* Database: Mongodb
+* Front-end: Flutter, Dart, React Native
+* Back-end: JS
+* Database: Mongodb hoặc là dịch vụ database của cloud
