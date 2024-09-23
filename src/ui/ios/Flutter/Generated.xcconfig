@@ -1,8 +1,8 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=C:\Users\HIEU\Downloads\flutter
-FLUTTER_APPLICATION_PATH=C:\Users\HIEU\Documents\GitHub\app_theo_doi_thoi_quen\src\ui
+FLUTTER_ROOT=/home/bombsquad/development/flutter
+FLUTTER_APPLICATION_PATH=/home/bombsquad/app_theo_doi_thoi_quen/src/ui
 COCOAPODS_PARALLEL_CODE_SIGN=true
-FLUTTER_TARGET=lib\main.dart
+FLUTTER_TARGET=lib/main.dart
 FLUTTER_BUILD_DIR=build
 FLUTTER_BUILD_NAME=1.0.0
 FLUTTER_BUILD_NUMBER=1
