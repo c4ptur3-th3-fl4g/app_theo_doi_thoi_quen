@@ -1,6 +1,6 @@
 package src.resource;
 public class phan_thuong {
-    private String id;
+    private int id;
     private  String name;
     private String mota;
     private  double diem;
@@ -8,18 +8,18 @@ public class phan_thuong {
     public phan_thuong() {
     }
 
-    public phan_thuong(String id, String name, String mota, double diem) {
+    public phan_thuong(int id, String name, String mota, double diem) {
         this.id = id;
         this.name = name;
         this.mota = mota;
         this.diem = diem;
     }
 
-    public String getId() {
+    public int getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(int id) {
         this.id = id;
     }
 

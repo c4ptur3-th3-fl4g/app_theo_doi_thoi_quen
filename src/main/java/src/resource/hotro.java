@@ -3,12 +3,12 @@ package src.resource;
 import java.util.ArrayList;
 
 public class hotro {
-    private String id;
+    private int id;
     private String ten;
     private ArrayList<user> danhsanhthanhvien;
     private  ArrayList<String> danhsachthanhtich;
 
-    public hotro(String id, String ten, ArrayList<user> danhsanhthanhvien, ArrayList<String> danhsachthanhtich) {
+    public hotro(int id, String ten, ArrayList<user> danhsanhthanhvien, ArrayList<String> danhsachthanhtich) {
         this.id = id;
         this.ten = ten;
         this.danhsanhthanhvien = danhsanhthanhvien;
@@ -18,11 +18,11 @@ public class hotro {
     public hotro() {
     }
 
-    public String getId() {
+    public int getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(int id) {
         this.id = id;
     }
 

@@ -1,24 +1,24 @@
 package src.resource;
 public class user {
     private String name;
-    private String id;
+    private int id;
     private String email;
     private String matkhau;
     private String list_thoi_quen;
 
     public user(){}
-    public user(String id, String name, String email, String matkhau, String list_thoi_quen) {
+    public user(int id, String name, String email, String matkhau, String list_thoi_quen) {
         this.id = id;
         this.name = name;
         this.email = email;
         this.matkhau = matkhau;
         this.list_thoi_quen = list_thoi_quen;
     }
-    public String getId() {
+    public int getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(int id) {
         this.id = id;
     }
 
