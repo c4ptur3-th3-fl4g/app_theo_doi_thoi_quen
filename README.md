@@ -22,6 +22,7 @@
 
 * Tạo, chỉnh sửa, và xóa thói quen cá nhân.
 * Đặt mục tiêu và nhắc nhở tự động.
+* List những thử thách thói quen khởi đầu.
 * Theo dõi tiến độ qua biểu đồ và thống kê.
 * Nhận phần thưởng ảo khi đạt cột mốc quan trọng.
 * Chia sẻ thành tích và kết nối với nhóm hỗ trợ.
