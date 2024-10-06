@@ -30,4 +30,4 @@
 ## Công nghệ sử dụng
 * Front-end: Flutter, Dart, React Native
 * Back-end: JS
-* Database: Mongodb hoặc là dịch vụ database của cloud
+* Database: SQL hoặc là dịch vụ database của cloud
